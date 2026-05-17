@@ -18,7 +18,3 @@ data pipelines and ML systems.
 [NASA Exoplanet Pipeline](https://github.com/alexablanc/exoplanet_pipeline ) — End-to-end data pipeline: NASA API → dbt transformations → Airflow orchestration.
 
 [Forecasting in R](https://github.com/alexablanc/Forecasting-in-R ) — Time-series sales forecasting using seasonality decomposition and Fourier series.
-
----
-
-[alexablanc.io](http://alexablanc.io/ )
