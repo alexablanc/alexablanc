@@ -4,17 +4,14 @@ I started in mathematics, specifically mathematical modeling and learned to code
 so I could actually bring those models to life. That path led me here: building 
 data pipelines and ML systems.
 
-math → cs
 
 **Focus areas:** data engineering, reinforcement learning, quantitative finance
 
----
 
 **Languages & Tools**
 
 Python · R · SQL · Apache Airflow · dbt · Docker · OpenAI API · PHP
 
----
 
 **Projects**
 
