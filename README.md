@@ -5,7 +5,4 @@ so I could actually bring those models to life. That path led me here: building
 data pipelines and ML systems.
 
 
-**Focus areas:** data engineering, reinforcement learning, quantitative finance
-
-
 **Languages & Tools:** Python · R · SQL · Apache Airflow · dbt · Docker · OpenAI API · PHP
