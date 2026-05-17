@@ -9,12 +9,3 @@ data pipelines and ML systems.
 
 
 **Languages & Tools:** Python · R · SQL · Apache Airflow · dbt · Docker · OpenAI API · PHP
-
-
-**Projects**
-
-[ML Algorithmic Trading Pipeline](https://github.com/alexablanc/ML_Algorithmic_Trading_Pipeline ) — Daily trading pipeline using Airflow, GPT-4o-mini, and a Dyna-Q RL agent that learns online from live market data.
-
-[NASA Exoplanet Pipeline](https://github.com/alexablanc/exoplanet_pipeline ) — End-to-end data pipeline: NASA API → dbt transformations → Airflow orchestration.
-
-[Forecasting in R](https://github.com/alexablanc/Forecasting-in-R ) — Time-series sales forecasting using seasonality decomposition and Fourier series.
