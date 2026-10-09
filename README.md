@@ -5,4 +5,4 @@ so I could actually bring those models to life. That path led me here: building
 data pipelines and ML systems.
 
 
-**Languages & Tools:** Python · R · SQL · Apache Airflow · dbt · Docker · OpenAI API · PHP
+**Languages & Tools:** Python · SQL · R · dbt · Snowflake · Snowpark · Apache Airflow · Docker · OpenAI API · PHP
